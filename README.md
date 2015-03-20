@@ -10,7 +10,7 @@ Technologies
 How to Run
 ----------
 ```
-> git clone
+> git clone https://github.com/NicolePell/jQuery_Selector.git
 > cd jQuery_Selector
 > open test.html
 > open developer tools
